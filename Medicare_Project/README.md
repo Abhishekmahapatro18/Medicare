@@ -1,4 +1,4 @@
-# Capstone Project- Medicare
+# Capstone Project 1- Medicare
 ## Project Background
 Medicare is a company that supplies medicines and a couple of other healthcare essentials at an affordable price. It was established in 2012 in Delhi, India. The Medicare team has decided to develop a dynamic and responsive web application for online ordering of medicines.
 
@@ -14,7 +14,7 @@ Download or clone the content of repository. Then follow the instruction given b
 
 ### Setup for database
 1. Open the MySQL Database.
-2. Click on Server -> import data -> Import from Dump Project Folder.
+2. Import from Dump Project Folder.
 3. Select the dump folder from Medicare-DB-MySQL folder and click start import.
 
 ### Setup for backend
