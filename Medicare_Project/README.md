@@ -14,7 +14,7 @@ Download or clone the content of repository. Then follow the instruction given b
 
 ### Setup for database
 1. Open the MySQL Database.
-2. Import from Dump Project Folder.
+2. Import from Dump Project Folder for the data.
 3. Select the dump folder from Medicare-DB-MySQL folder and click start import.
 
 ### Setup for backend
